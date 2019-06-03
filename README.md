@@ -23,7 +23,7 @@ Quantum: Community Edition is a passion project to expand and improve upon the o
 
 
 
-## [New Rules](https://github.com/stolksdorf/quantum/blob/master/New Rules.md)
+## [New Rules](https://github.com/stolksdorf/quantum/blob/master/New%20Rules.md)
 We've added some new rules and mechanics to keep the
 
 
