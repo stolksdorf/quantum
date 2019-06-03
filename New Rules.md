@@ -2,7 +2,7 @@
 
 
 
-## New Terms
+### New Terms
 
 - **Skill Card** -> replacing **Command Card**
 - **Tactic Card** -> replacing **Gambit Card**
@@ -61,12 +61,12 @@ You may spend a Missile to change any player's combat roll to a 1. You may spend
 1. Choose a map layout and create it.
 1. Shuffle the Skill deck
 1. **Each Player**
-  1. Take a Player Aid board, 7 Dice, 1 Missile token, and the number of Conquer Markers required for the map.
-  1. Draw 2 Skill cards, select one and return the other to the bottom of the skill deck.
-  1. Place one of your Conquer Markers onto your home system
-  1. Place a die onto the Research tracker and a die onto the Dominance tracker on your board. Set both to 1.
-  1. Place two of your dice on the Reserve section of your board.
-  1. Roll three of your dice and place them into the orbital spaces around your home planet in any configuration. You may re-roll any of these dice once.
+    1. Take a Player Aid board, 7 Dice, 1 Missile token, and the number of Conquer Markers required for the map.
+    1. Draw 2 Skill cards, select one and return the other to the bottom of the skill deck.
+    1. Place one of your Conquer Markers onto your home system
+    1. Place a die onto the Research tracker and a die onto the Dominance tracker on your board. Set both to 1.
+    1. Place two of your dice on the Reserve section of your board.
+    1. Roll three of your dice and place them into the orbital spaces around your home planet in any configuration. You may re-roll any of these dice once.
 
 1. Shuffle the Skill deck and the Tactic deck. Place them near the board and reveal the top three cards for each.
 1. Create the Expansion deck by taking expansion cards equal to the number of players plus one. Place this near the board.
