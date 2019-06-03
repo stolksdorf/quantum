@@ -12,7 +12,7 @@
   status   : removed
   original : Immediately roll an expansion ship and put it in orbital position on a planet with one of your quantum cubes or in your scrapyard.
   art      :
-  notes    : The fleet expansion ability as a Tactic is odd. This ability should scale with the number of players, but it has a fixed number in the deck. In low player counts you can get flooded with Expansion cards you can't use, and in high player counts, it's difficult to expand when you want to. Expansion is just one path to victory, but it is over-represented in the Tactic deck. We feel moving it to it's own separate deck fixes these issues. [See Rules for Expansion Deck]().
+  notes    : The fleet expansion ability as a Tactic is odd. This ability should scale with the number of players, but it has a fixed number in the deck. In low player counts you can get flooded with Expansion cards you can't use, and in high player counts, it's difficult to expand when you want to. Expansion is just one path to victory, but it is over-represented in the Tactic deck. We feel moving it to it's own separate deck fixes these issues. [See Rules for Expansion Deck](https://github.com/stolksdorf/quantum/blob/master/New%20Rules.md#fleet-expansion-deck).
 
 
 - name     : Momentum

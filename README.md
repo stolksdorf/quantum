@@ -11,8 +11,6 @@
 ## What is Quantum: Community Edition?
 Quantum: Community Edition is a passion project to expand and improve upon the original game. Our new cards and mechaics have been rigourously playtested over the last few years, revised many times to hit these goals:
 
-#### Goals
-
 - **Balance Cards**: No card should be strictly better in all cases.
 - **Increase 'Faction Ownership'**: Ensure they player feels like their faction their build feels unique. We do this by removing repetitive cards and introducing new abilities.
 - **Streamline Rules and Language**: The original game lacked consistent langugae in it's rules.
@@ -36,13 +34,13 @@ We've added some new rules and mechanics to keep the game fresh and streamlined.
 ## [New Cards](https://github.com/stolksdorf/quantum/blob/master/Cards.md)
 Card abilities are the heart of Quantum, and we have created many new cards and balanced the existing ones.
 
-- 16 new and 21 revised skills
-- 6 new and 3 revised tactics
+- 16 new and 21 revised Skills
+- 6 new and 3 revised Tactics
 
 
 
 
 
 
-### Contributing Guide
+## Contributing Guide
 _Coming soon._

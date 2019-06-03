@@ -15,7 +15,8 @@
 - **Missile** -> New token and mechanic, see below
 - **Reset Dominance**/**Reset Research** -> term for when you reset your dice on your player aid at the end of the turn. The original game had no term for this directly.
 - **Take a card** -> player selects either a Skill, Tactic, or Expansion card.
-
+- **Combat roll** -> replaces 'weapons or defenses combat roll'
+- **Planet number** -> the number printed on the planet.
 
 
 

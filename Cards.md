@@ -6,10 +6,20 @@ We have renamed **Command Cards** (white-backed cards) to **Skill Cards** and **
 All Tactics now show up twice in the Tactic Deck. The variety of Skills in the original Quantum was a huge selling point for the game, so we tried to design more Tactics to have the same effect. This will also reduce repeats and locked face-up cards for selection.
 
 
+Cards with the status of 'playtesting' are still being balanced and tweaked. Feel free to try them out, but they won't be as polished as the other cards.
+
+A status of 'revised' means that the card is mechanically the same to the original, but the wording has been improved.
+
+
+_Printable card proxies with art is coming soon._
+
+
 
 - [New Skills](#new-skills)
+- [Removed Skills](#removed-skills)
 - [Unchanged Skills](#unchanged-skills)
 - [New Tactics](#new-tactics)
+- [Removed Tactics](#removed-tactics)
 - [Unchanged Tactics](#unchanged-tactics)
 
 ---
@@ -17,7 +27,6 @@ All Tactics now show up twice in the Tactic Deck. The variety of Skills in the o
 
 
 ## New Skills
-Brand new cards or original cards that have been re-worked. Note that some cards are marked as still in playtesting.
 
 **Ambitious**: Once per turn you may take an additional action, then put a token on this card. If this card has three tokens on it, discard it. <br/>
 > _status: new_ <br/>
@@ -33,12 +42,12 @@ Brand new cards or original cards that have been re-worked. Note that some cards
 
 **Clever**: After reconfiguring, you may increase or decrease the ship number by 1. <br/>
 > _status: changed_ <br/>
-> [original: Whenever you would roll a ship die, choose the ship number instead.] <br/>
+> [original]: Whenever you would roll a ship die, choose the ship number instead. <br/>
 > Clever was a must-pick card, it was far too powerful, I've rarely seen a clever player _not_ win. This rework went through several iterations, each time reducing it's power-level. We finally split it's ability across two cards (the other being Calculating). We now feel it's still a very useful card without being overbearing.
 
 **Curious**: At the end of your turn, if you did not Attack or Conquer, gain 1 action. <br/>
 > _status: changed_ <br/>
-> [original: Each turn, get 1 extra move action for free (you cannot use it to attack).] <br/>
+> [original]: Each turn, get 1 extra move action for free (you cannot use it to attack). <br/>
 
 **Devious**: You may move your ships through enemy ships. These spaces do not count towards your movement. <br/>
 > _status: playtesting_ <br/>
@@ -66,12 +75,12 @@ Brand new cards or original cards that have been re-worked. Note that some cards
 
 **Ravenous**: The first time you destroy an enemy ship each turn, gain 1 additional Dominance. <br/>
 > _status: changed_ <br/>
-> [original: When you destroy an enemy ship, dominance +2; when one of your ships is destroyed, dominance -2.] <br/>
+> [original]: When you destroy an enemy ship, dominance +2; when one of your ships is destroyed, dominance -2. <br/>
 > Abilities in Quantum almost never have downsides, so this card stood out. Many players would take this card once, and see how fickle the downside can be, and rarely ever take it again. We balanced the power level to only let it proc once a turn.
 
 **Righteous**: You can not lose Dominance. You can not gain Research. <br/>
 > _status: changed_ <br/>
-> [original: Your dominance is not reduced when one of your ships is destroyed.] <br/>
+> [original]: Your dominance is not reduced when one of your ships is destroyed. <br/>
 > Righteous was too good, but the flavour of the card and the impact on the game was too good to remove, so we added on the no research penalty. The card still might be too good, but at least it is more of a situational pick-up.
 
 **Ruthless**: The first time you destroy an enemy ship each turn, you may disable one of the emeny's Skills until the start of your next turn. <br/>
@@ -84,91 +93,8 @@ Brand new cards or original cards that have been re-worked. Note that some cards
 
 **Tyrannical**: You may use your Dominance number in place of one of your ship numbers when Conquering. <br/>
 > _status: changed_ <br/>
-> [original: Once per turn as a free action, you may reduce your research by 1 and gain 1 dominance.] <br/>
+> [original]: Once per turn as a free action, you may reduce your research by 1 and gain 1 dominance. <br/>
 > The original tyrannical was a weird card. It enabled a strategy our group dubbed 'Ghost Fleet', where you would try to get all your ships destroyed, not redeploy them, and use Tyrannical each turn to gain Dominance. While slow, the strategy is unstoppable and not that fun to play against. This new version still promotes the idea of having high dominance, but now it can be used as a tool opening up interesting decisions to the player. Do I want to tick it over this turn? Or wait so I can use that 5 to easily Conquer a different planet?
-
-
-
-
-
-
-## Unchanged Skills
-These cards have not been changed or the wording has been made more consistent, but are mechanically the same.
-
-**Agile**: All of your ships have +1 movement. <br/>
-> _status: unchanged_ <br/>
-
-**Brilliant**: At the start of your turn, you may gain 2 Research. <br/>
-> _status: revised_ <br/>
-> [original: Add 2 to your research automatically at the start of your turn.] <br/>
-
-**Composed**: Once per turn, you may lose 1 Dominance and gain 3 Research <br/>
-> _status: revised_ <br/>
-> [original: Once per turn as a free action, you may reduce your dominance by 1 and gain 3 research.] <br/>
-> Renamed from 'Cereberal'
-
-**Cunning**: Once per turn, you may use one ship ability a second time. <br/>
-> _status: revised_ <br/>
-> [original: Once per turn, you may use one of your ship’s abilities a second time as a free action.] <br/>
-
-**Dangerous**: When you defend, before players roll combat dice, you can decide to destroy both ships (there is no dominance effect). <br/>
-> _status: unchanged_ <br/>
-
-**Steadfast**: Your ships can move or move/attack more than once per turn (each move counts as an action). <br/>
-> _status: unchanged_ <br/>
-> Renamed from 'Energetic'
-
-**Ferocious**: -1 to your Combat rolls <br/>
-> _status: revised_ <br/>
-> [original: Subtract 1 from every weapons or defenses combat roll.] <br/>
-
-**Flexible**: Once per turn, you may increase or decrease one of your ship numbers by 1 <br/>
-> _status: revised_ <br/>
-> [original: Once per turn, you may change one of your ship dice up or down by 1 as a free action.] <br/>
-
-**Ingenious**: You may use spaces diagonal to a planet when Conquering <br/>
-> _status: revised_ <br/>
-> [original: Each of your ships diagonally adjacent to a planet may be counted toward the construct action.] <br/>
-
-**Intelligent**: When Conquering, you may add or subtract 1 from the planet number <br/>
-> _status: revised_ <br/>
-> [original: You can construct on a planet when you have an orbital total 1 higher or 1 lower than the planet’s number.] <br/>
-
-**Plundering**: The first time you destroy an enemy ship each turn, you may gain 3 Research <br/>
-> _status: unchanged_ <br/>
-> [original: If you destroy one or more enemy ships on your turn, increase your research by 3.] <br/>
-
-**Precocious**: Your Research resets at 4, 5, or 6 <br/>
-> _status: revised_ <br/>
-> [original: Gain an advance card when research = 4 or higher (instead of 6).] <br/>
-
-**Rational**: Your Combat rolls are 3 <br/>
-> _status: revised_ <br/>
-> [original: Instead of rolling for weapons and defenses, all of your combat die rolls are considered to be 3.] <br/>
-
-**Resourceful**: Once per turn, you may destroy one of your ships and gain 1 Action. <br/>
-> _status: revised_ <br/>
-> [original: Once per turn, take one of your ships from the map to your scrapyard, reroll it, and gain 1 action for that turn.] <br/>
-
-**Stealthy**: You may deploy to any space that is not adjacent to a ship. <br/>
-> _status: revised_ <br/>
-> [original: You have the option of deploying to any space that is not next to another ship.] <br/>
-
-**Strategic**: During combat if your ship is adjacent to one or more friendly ships, -2 to your Combat roll. <br/>
-> _status: revised_ <br/>
-> [original: Any of your ships next to another one of your ships gets a -2 to every weapons or defenses combat roll (you can consider an attacker to be in either square).] <br/>
-
-**Stubborn**: When you are attacked, ties go in your favor and you destroy your attacker if you win (and gain dominance). <br/>
-> _status: unchanged_ <br/>
-
-**Tactical**: Once per turn, you may move/attack 1 space with a ship even if it's already moved. <br/>
-> _status: revised_ <br/>
-> [original: Once per turn as a free action, move a ship a total of 1 space (you can attack with the move).] <br/>
-
-**Hostile**: The first time you destroy an enemy ship each turn, gain 1 action. <br/>
-> _status: revised_ <br/>
-> [original: When you destroy 1 or more enemy ships on your turn, you gain 1 extra action for that turn.] <br/>
-> Reanmed from 'Warlike'
 
 
 
@@ -205,6 +131,90 @@ These cards have not been changed or the wording has been made more consistent, 
 
 
 
+
+
+## Unchanged Skills
+
+**Agile**: All of your ships have +1 movement. <br/>
+> _status: unchanged_ <br/>
+
+**Brilliant**: At the start of your turn, you may gain 2 Research. <br/>
+> _status: revised_ <br/>
+> [original]: Add 2 to your research automatically at the start of your turn. <br/>
+
+**Composed**: Once per turn, you may lose 1 Dominance and gain 3 Research <br/>
+> _status: revised_ <br/>
+> [original]: Once per turn as a free action, you may reduce your dominance by 1 and gain 3 research. <br/>
+> Renamed from 'Cereberal'
+
+**Cunning**: Once per turn, you may use one ship ability a second time. <br/>
+> _status: revised_ <br/>
+> [original]: Once per turn, you may use one of your ship’s abilities a second time as a free action. <br/>
+
+**Dangerous**: When you defend, before players roll combat dice, you can decide to destroy both ships (there is no dominance effect). <br/>
+> _status: unchanged_ <br/>
+
+**Steadfast**: Your ships can move or move/attack more than once per turn (each move counts as an action). <br/>
+> _status: unchanged_ <br/>
+> Renamed from 'Energetic'
+
+**Ferocious**: -1 to your Combat rolls <br/>
+> _status: revised_ <br/>
+> [original]: Subtract 1 from every weapons or defenses combat roll. <br/>
+
+**Flexible**: Once per turn, you may increase or decrease one of your ship numbers by 1 <br/>
+> _status: revised_ <br/>
+> [original]: Once per turn, you may change one of your ship dice up or down by 1 as a free action. <br/>
+
+**Ingenious**: You may use spaces diagonal to a planet when Conquering <br/>
+> _status: revised_ <br/>
+> [original]: Each of your ships diagonally adjacent to a planet may be counted toward the construct action. <br/>
+
+**Intelligent**: When Conquering, you may add or subtract 1 from the planet number <br/>
+> _status: revised_ <br/>
+> [original]: You can construct on a planet when you have an orbital total 1 higher or 1 lower than the planet’s number. <br/>
+
+**Plundering**: The first time you destroy an enemy ship each turn, you may gain 3 Research <br/>
+> _status: unchanged_ <br/>
+> [original]: If you destroy one or more enemy ships on your turn, increase your research by 3. <br/>
+
+**Precocious**: Your Research resets at 4, 5, or 6 <br/>
+> _status: revised_ <br/>
+> [original]: Gain an advance card when research = 4 or higher (instead of 6). <br/>
+
+**Rational**: Your Combat rolls are 3 <br/>
+> _status: revised_ <br/>
+> [original]: Instead of rolling for weapons and defenses, all of your combat die rolls are considered to be 3. <br/>
+
+**Resourceful**: Once per turn, you may destroy one of your ships and gain 1 Action. <br/>
+> _status: revised_ <br/>
+> [original]: Once per turn, take one of your ships from the map to your scrapyard, reroll it, and gain 1 action for that turn. <br/>
+
+**Stealthy**: You may deploy to any space that is not adjacent to a ship. <br/>
+> _status: revised_ <br/>
+> [original]: You have the option of deploying to any space that is not next to another ship. <br/>
+
+**Strategic**: During combat if your ship is adjacent to one or more friendly ships, -2 to your Combat roll. <br/>
+> _status: revised_ <br/>
+> [original]: Any of your ships next to another one of your ships gets a -2 to every weapons or defenses combat roll (you can consider an attacker to be in either square). <br/>
+
+**Stubborn**: When you are attacked, ties go in your favor and you destroy your attacker if you win (and gain dominance). <br/>
+> _status: unchanged_ <br/>
+
+**Tactical**: Once per turn, you may move/attack 1 space with a ship even if it's already moved. <br/>
+> _status: revised_ <br/>
+> [original]: Once per turn as a free action, move a ship a total of 1 space (you can attack with the move). <br/>
+
+**Hostile**: The first time you destroy an enemy ship each turn, gain 1 action. <br/>
+> _status: revised_ <br/>
+> [original]: When you destroy 1 or more enemy ships on your turn, you gain 1 extra action for that turn. <br/>
+> Reanmed from 'Warlike'
+
+
+
+
+
+
 ---
 
 
@@ -212,7 +222,6 @@ These cards have not been changed or the wording has been made more consistent, 
 
 
 ## New Tactics
-Brand new cards or overhauled.
 
 **Black Market Cache**: Gain 2 Missiles <br/>
 > _status: playtesting_ <br/>
@@ -231,7 +240,7 @@ Brand new cards or overhauled.
 
 **Sabotage**: Every opponent's next turn has 1 fewer actions. <br/>
 > _status: changed_ <br/>
-> [original: All other players must immediately choose and discard one of their command cards.] <br/>
+> [original]: All other players must immediately choose and discard one of their command cards. <br/>
 > The original Sabotage lead to a lot of bad-feeling moments while also not providing much upside to the person selecting it. If there was a specific ability you wanted to remove from a player, this card did not help you get rid of it; The affected players would just select their worse card to remove. This card was also a 'win-more' card where it hurt players who were behind more than it hurt players that were ahead. This new version can help you get 'one turn ahead' of everyone else without crippling them, it can also be used to delay someone's winning turn.
 
 **Unveil The Fleet**: Destroy all your ships. You may reroll any ships in your scrapyard once. Deploy any number of ships. <br/>
@@ -242,28 +251,11 @@ Brand new cards or overhauled.
 
 
 
-
-## Revised Tactics
-These cards have not been changed or the wording has been made more consistent, but are mechanically the same.
-
-**Aggression**: Gain 2 Dominance <br/>
-> _status: revised_ <br/>
-> [original: Immediately add 2 to dominance] <br/>
-
-**Momentum**: Immediately take another turn, but with 2 actions instead of 3 (treat it as a brand-new turn). <br/>
-> _status: unchanged_ <br/>
-> Great card. So many fun moments, especially with players that focus on research.
-
-
-
-
-
-
 ## Removed Tactics
 
 **Expansion**: Immediately roll an expansion ship and put it in orbital position on a planet with one of your quantum cubes or in your scrapyard. <br/>
 > _status: removed_ <br/>
-> The fleet expansion ability as a Tactic is odd. This ability should scale with the number of players, but it has a fixed number in the deck. In low player counts you can get flooded with Expansion cards you can't use, and in high player counts, it's difficult to expand when you want to. Expansion is just one path to victory, but it is over-represented in the Tactic deck. We feel moving it to it's own separate deck fixes these issues. [See Rules for Expansion Deck]().
+> The fleet expansion ability as a Tactic is odd. This ability should scale with the number of players, but it has a fixed number in the deck. In low player counts you can get flooded with Expansion cards you can't use, and in high player counts, it's difficult to expand when you want to. Expansion is just one path to victory, but it is over-represented in the Tactic deck. We feel moving it to it's own separate deck fixes these issues. [See Rules for Expansion Deck](https://github.com/stolksdorf/quantum/blob/master/New%20Rules.md#fleet-expansion-deck).
 
 **Reorganization**: Place each rerolled ship either in orbital position on a planet that has one of your quantum cubes, or in your scrapyard. <br/>
 > _status: removed_ <br/>
@@ -272,3 +264,22 @@ These cards have not been changed or the wording has been made more consistent, 
 **Relocation**: Move another player’s quantum cube to a planet without one of their cubes (the new planet cannot have a higher planet number). <br/>
 > _status: removed_ <br/>
 > I've rarely seen a group use this card. Also, the benefit it provides to the game is not in line with the mechanically theme of the game, so it usefullness tends to be very opqaue to players, especially new ones. When it has been used, it usually immediately wins the game; A defending player heavily fortifies one of the last places the winning player needs to take to win, this card pops up and just shifts the state of the board suddenly. There's not really any counter-play to this card, you just have to hope it doesn't come up. Winning with it doesn't feel very good, you don't feel clever, just lucky.
+
+
+
+
+
+
+## Unchanged Tactics
+
+**Aggression**: Gain 2 Dominance <br/>
+> _status: revised_ <br/>
+> [original]: Immediately add 2 to dominance <br/>
+
+**Momentum**: Immediately take another turn, but with 2 actions instead of 3 (treat it as a brand-new turn). <br/>
+> _status: unchanged_ <br/>
+> Great card. So many fun moments, especially with players that focus on research.
+
+
+
+

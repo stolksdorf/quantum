@@ -33,7 +33,7 @@ const renderGroup = (cards)=>{
 		text.push(`**${card.name}**: ${card.text || card.original} <br/>`);
 
 		if(card.status) text.push(`> _status: ${card.status}_ <br/>`);
-		if(card.text && card.original) text.push(`> [original: ${card.original}] <br/>`);
+		if(card.text && card.original) text.push(`> [original]: ${card.original} <br/>`);
 		if(card.notes) text.push(`> ${card.notes}`);
 
 		return text.join('\n')
