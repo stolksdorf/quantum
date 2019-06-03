@@ -215,7 +215,7 @@ These cards have not been changed or the wording has been made more consistent, 
 Brand new cards or overhauled.
 
 **Black Market Cache**: Gain 2 Missiles <br/>
-> _status: new_ <br/>
+> _status: playtesting_ <br/>
 
 **Change of Heart**: Search the Skill deck and take a card of your choosing, then shuffle the deck. <br/>
 > _status: new_ <br/>

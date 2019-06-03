@@ -23,8 +23,14 @@ Quantum: Community Edition is a passion project to expand and improve upon the o
 
 
 
+
 ## [New Rules](https://github.com/stolksdorf/quantum/blob/master/New%20Rules.md)
-We've added some new rules and mechanics to keep the
+We've added some new rules and mechanics to keep the game fresh and streamlined.
+
+- New Expansion Mechanic
+- Starting Skill
+- Top Deck peeking to reduce stale draws
+- New Missile Tokens to control combat RNG
 
 
 ## [New Cards](https://github.com/stolksdorf/quantum/blob/master/Cards.md)
