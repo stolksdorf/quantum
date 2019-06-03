@@ -1,0 +1,38 @@
+{
+  "name": "quantum",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "build": "node scripts/cardReadme.script.js",
+    "start": "npm run dev",
+    "dev": "nodemon -e js,yaml scripts/cardReadme.script.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "vitreum": {
+    "targets": [
+      "Cards/cards.jsx",
+      "PlayerAids/playerAids.jsx"
+    ],
+    "template": "Assets/html.template.js"
+  },
+  "babel": {
+    "presets": [
+      "@babel/preset-react"
+    ],
+    "plugins": [
+      "@babel/plugin-proposal-object-rest-spread"
+    ]
+  },
+  "dependencies": {
+    "@babel/core": "^7.4.3",
+    "@babel/plugin-proposal-object-rest-spread": "^7.4.3",
+    "@babel/preset-react": "^7.0.0",
+    "fs-extra": "^8.0.1",
+    "js-yaml": "^3.13.1",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6",
+    "vitreum": "^5.6.2"
+  }
+}

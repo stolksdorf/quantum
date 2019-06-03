@@ -1,0 +1,50 @@
+
+- name     : Black Market Cache
+  text     : Gain 2 Missiles
+  status   : new
+  original :
+  art      :
+  notes    :
+
+
+- name     : Change of Heart
+  text     : Search the Skill deck and take a card of your choosing, then shuffle the deck.
+  status   : new
+  original :
+  art      : admiral
+  notes    : The original game gave you very few tools to deal with a run-away player. Change of Heart can now help players search for the exact card they need to counter a problem player. Also, one of the most fun parts of this game is creating fun combos, this card helps players achieve this.
+
+
+- name     : Hypernet Gate
+  text     : Place the Hypernet Gate tokens on two different spaces on the board. Any player who has played Hypernet Gate may consider those spaces adjacent.
+  status   : new
+  original :
+  art      : gate
+  notes    : One of the first cards I designed. I really wanted to capture the feeling of warp gates in space. Mechanically this has done really well. Players have used it in interesting ways, such as sparking conflicts between two opposite players by linking their planets together.
+
+
+- name     : Plan Ahead
+  text     : Until the end of your next turn, all your combat rolls are 1.
+  status   : new
+  original :
+  art      : planning
+  notes    : Can be used defensively or to set up a big offense turn
+
+
+
+- name     : Sabotage
+  text     : Every opponent's next turn has 1 fewer actions.
+  status   : changed
+  original : All other players must immediately choose and discard one of their command cards.
+  art      : explode
+  notes    : The original Sabotage lead to a lot of bad-feeling moments while also not providing much upside to the person selecting it. If there was a specific ability you wanted to remove from a player, this card did not help you get rid of it; The affected players would just select their worse card to remove. This card was also a 'win-more' card where it hurt players who were behind more than it hurt players that were ahead. This new version can help you get 'one turn ahead' of everyone else without crippling them, it can also be used to delay someone's winning turn.
+
+
+
+
+- name     : Unveil The Fleet
+  text     : Destroy all your ships. You may reroll any ships in your scrapyard once. Deploy any number of ships.
+  status   : new
+  original :
+  art      : leaving
+  notes    : A flashier version of 'Reorganization'

@@ -1,0 +1,139 @@
+- name     : Ambitious
+  text     : Once per turn you may take an additional action, then put a token on this card. If this card has three tokens on it, discard it.
+  status   : new
+  type     : action
+  art      :
+  notes    : One of my favourite cards in the game is Resourceful, so I tried to design this card to be a Skill I would want to take instead of Resourceful.
+
+
+- name     : Brutal
+  text     : For Combat rolls, roll twice and use the lower number.
+  status   : new
+  type     : combat
+  art      :
+  notes    : Cruel and relentless were both mechnically the same, so we wanted to reduce it to just one card. The wording was also trickier then it needed to be.
+
+
+- name     : Calculating
+  text     : When a ship is placed in your scrapyard, choose it's ship number.
+  status   : new
+  type     : ship
+  art      : thrawn
+  notes    : The other half of Clever. The original Clever let you control ship numbers both when you reconfigure and when a ship is destroyed. We split that across two cards. It also feels very thematic, having to plan in advance which ship number we'll want when you deploy next.
+
+
+- name     : Clever
+  text     : After reconfiguring, you may increase or decrease the ship number by 1.
+  status   : changed
+  original : Whenever you would roll a ship die, choose the ship number instead.
+  type     : ship
+  art      : planning
+  notes    : Clever was a must-pick card, it was far too powerful, I've rarely seen a clever player _not_ win. This rework went through several iterations, each time reducing it's power-level. We finally split it's ability across two cards (the other being Calculating). We now feel it's still a very useful card without being overbearing.
+
+
+
+- name     : Curious
+  text     : At the end of your turn, if you did not Attack or Conquer, gain 1 action.
+  status   : changed
+  original : Each turn, get 1 extra move action for free (you cannot use it to attack).
+  type     : action
+  art      : zoning in
+  notes    :
+
+
+
+
+- name     : Devious
+  text     : You may move your ships through enemy ships. These spaces do not count towards your movement.
+  status   : playtesting
+  type     : movement
+  art      : jack
+  notes    : The original game already had a good number of movement abilities, so this one was hard to come up with. I wanted a skill that let you do more 'surprise' manevuers like Stealthy does. Originally it just let you pass through other ships, but was still too weak compared to other cards.
+
+
+- name     : Industrious
+  text     : Gain an additional Deploy action each turn.
+  status   : new
+  type     : action
+  art      :
+  notes    : Successor to Eager. Most cards that award additional actions, usually give a single action with a restriction or penalty. However Eager could reward up to 3 free actions quite regularly. Industrious keeps the same flavour but brings the power level in line.
+
+
+- name     : Patient
+  text     : Whenever you take a Tactic, you may instead store it. At the end of each of your turns, you may play a stored Tactic. When you take this Skill, you may take and store a Tactic.
+  status   : playtesting
+  type     : card
+  art      :
+  notes    : This card was designed more to explore the design space of setting up larger turns than to serve a specific gameplay purpose.
+
+
+- name     : Pioneering
+  text     : You may use your Research number in place of one of your ship numbers when Conquering.
+  status   : new
+  type     : conquer
+  art      : create
+  notes    : A symmetrical card to the new Tyrannical. Haven't played with it too much yet to see if it's too powerful, as it's a lot easier to manipulate your research than it is your dominance.
+
+
+- name     : Prideful
+  text     : Conquer when your Dominance is 4. If a player destroys one of your ships, they may take this skill from you.
+  status   : playtesting
+  type     : conquer
+  art      :
+  notes    : We had a card called Fervent that reduced the amount of dominance you need to 4, and then to 5, but it still proved too good. I still really enjoyed the ability, so I want to try it with the mechanics of a Skill passing from player to player. My worry is that it might dramatically cahnge the flow of the game if it pops up.
+
+
+
+- name     : Profiteering
+  text     : When you take a card for Conquering, may instead gain 1 Missile.
+  status   : playtesting
+  type     : combat
+  art      :
+  notes    : More ways to get missiles
+
+
+- name     : Ravenous
+  text     : The first time you destroy an enemy ship each turn, gain 1 additional Dominance.
+  status   : changed
+  original : When you destroy an enemy ship, dominance +2; when one of your ships is destroyed, dominance -2.
+  type     : combat
+  art      :
+  notes    : Abilities in Quantum almost never have downsides, so this card stood out. Many players would take this card once, and see how fickle the downside can be, and rarely ever take it again. We balanced the power level to only let it proc once a turn.
+
+
+- name     : Righteous
+  text     : You can not lose Dominance. You can not gain Research.
+  status   : changed
+  original : Your dominance is not reduced when one of your ships is destroyed.
+  type     : conquer
+  art      :
+  notes    : Righteous was too good, but the flavour of the card and the impact on the game was too good to remove, so we added on the no research penalty. The card still might be too good, but at least it is more of a situational pick-up.
+
+
+
+
+- name     : Ruthless
+  text     : The first time you destroy an enemy ship each turn, you may disable one of the emeny's Skills until the start of your next turn.
+  status   : playtesting
+  type     : card
+  art      : wrath
+  notes    : The spiritual sucessor to the original Sabotage card. Losing a card turns out to be quite a powerful effect, so to balance this Sabotage let the affected player choose which card they lose, however in practice this rarely does what you want. Ruthless solves by giving the ability to slow a player down without crippling them, while also providing them counter-play (by avoiding the Ruthless player's ships).
+
+
+- name     : Talented
+  text     : You can have up to 5 Skills.
+  status   : new
+  type     : card
+  art      :
+  notes    : So far this hasn't broken the game. It doesn't seem like any skill was designed around only having 3 of them.
+
+
+- name     : Tyrannical
+  text     : You may use your Dominance number in place of one of your ship numbers when Conquering.
+  status   : changed
+  original : Once per turn as a free action, you may reduce your research by 1 and gain 1 dominance.
+  type     : conquer
+  art      : menance
+  notes    : The original tyrannical was a weird card. It enabled a strategy our group dubbed 'Ghost Fleet', where you would try to get all your ships destroyed, not redeploy them, and use Tyrannical each turn to gain Dominance. While slow, the strategy is unstoppable and not that fun to play against. This new version still promotes the idea of having high dominance, but now it can be used as a tool opening up interesting decisions to the player. Do I want to tick it over this turn? Or wait so I can use that 5 to easily Conquer a different planet?
+
+

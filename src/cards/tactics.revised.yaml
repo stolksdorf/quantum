@@ -1,0 +1,40 @@
+
+- name     : Aggression
+  text     : Gain 2 Dominance
+  status   : revised
+  original : Immediately add 2 to dominance
+  art      :
+  notes    :
+
+
+- name     : Expansion
+  text     :
+  status   : removed
+  original : Immediately roll an expansion ship and put it in orbital position on a planet with one of your quantum cubes or in your scrapyard.
+  art      :
+  notes    : The fleet expansion ability as a Tactic is odd. This ability should scale with the number of players, but it has a fixed number in the deck. In low player counts you can get flooded with Expansion cards you can't use, and in high player counts, it's difficult to expand when you want to. Expansion is just one path to victory, but it is over-represented in the Tactic deck. We feel moving it to it's own separate deck fixes these issues. [See Rules for Expansion Deck]().
+
+
+- name     : Momentum
+  text     :
+  status   : unchanged
+  original : Immediately take another turn, but with 2 actions instead of 3 (treat it as a brand-new turn).
+  art      :
+  notes    : Great card. So many fun moments, especially with players that focus on research.
+
+
+- name     : Reorganization
+  text     :
+  status   : removed
+  original : Place each rerolled ship either in orbital position on a planet that has one of your quantum cubes, or in your scrapyard.
+  art      :
+  notes    : Replaced by 'Unveil the Fleet'
+
+
+- name     : Relocation
+  text     :
+  status   : removed
+  original : Move another player’s quantum cube to a planet without one of their cubes (the new planet cannot have a higher planet number).
+  art      :
+  notes    : I've rarely seen a group use this card. Also, the benefit it provides to the game is not in line with the mechanically theme of the game, so it usefullness tends to be very opqaue to players, especially new ones. When it has been used, it usually immediately wins the game; A defending player heavily fortifies one of the last places the winning player needs to take to win, this card pops up and just shifts the state of the board suddenly. There's not really any counter-play to this card, you just have to hope it doesn't come up. Winning with it doesn't feel very good, you don't feel clever, just lucky.
+

@@ -1,0 +1,122 @@
+
+.Cards{
+	.card{
+		position : relative;
+		display  : inline-block;
+		overflow : hidden;
+		height   : 6.3cm;
+		width    : 8.8cm;
+		//height   : 408px;
+		//width    : 584px;
+		margin   : 3px;
+		*{
+			//position : absolute;
+		}
+		.content{
+			position : absolute;
+			top      : 0;
+			right    : 0;
+			bottom   : 0;
+			left     : 0;
+			z-index  : 20;
+			color    : white;
+			font-size: 0.6em;
+			h1, h3{
+				position       : absolute;
+				margin         : 0;
+				font-family    : Coalition;
+				font-weight    : 100;
+				text-align     : center;
+				text-transform : uppercase;
+			}
+			h1{
+				font-size : 3em;
+				//border: 1px solid red;
+			}
+			h3{
+				font-size : 1.2em;
+				letter-spacing: 1px;
+				//border: 1px solid red;
+			}
+			p{
+				position       : absolute;
+				display        : table-cell;
+				vertical-align : middle;
+				height         : 3.3em;
+				font-family    : Calibri;
+				font-size      : 1.1em;
+				font-weight    : 500;
+				letter-spacing : 0.5px;
+				line-height    : 1.2em;
+				text-align     : center;
+				//border: 1px solid red;
+			}
+		}
+		.art{
+			position : absolute;
+			z-index  : 10;
+		}
+		.frame{
+			position : absolute;
+			width : 100%;
+			height : 100%;
+			top      : 0;
+			left     : 0;
+			z-index  : 18;
+		}
+		.fade{
+			position   : absolute;
+			top        : 0;
+			right      : 0;
+			bottom     : 0;
+			left       : 0;
+			z-index    : 15;
+			background : linear-gradient(to bottom,
+			rgba(0,0,0,1) 0%,
+			rgba(0,0,0,1) 3%,
+			rgba(0,0,0,0) 30%,
+			rgba(0,0,0,0) 50%,
+			rgba(0,0,0,1) 97%,
+			rgba(0,0,0,1) 100%);
+		}
+		/* Skill */
+		&.skill{
+			h1{
+				top   : 8px;
+				right : 0px;
+				left  : 48px;
+			}
+			h3{
+				right  : 0px;
+				bottom : 65px;
+				left   : 48px;
+			}
+			p{
+				right         : 0px;
+				bottom        : 13px;
+				left          : 48px;
+				padding-right : 20px;
+				padding-left  : 20px;
+			}
+		}
+		/* Tactic */
+		&.tactic{
+			h1{
+				top       : 22px;
+				right     : 50px;
+				left      : 50px;
+				font-size : 2.1em;
+			}
+			h3{
+				right  : 50px;
+				bottom : 65px;
+				left   : 50px;
+			}
+			p{
+				right  : 60px;
+				bottom : 13px;
+				left   : 60px;
+			}
+		}
+	}
+}

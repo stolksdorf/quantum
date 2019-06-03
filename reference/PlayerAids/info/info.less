@@ -1,0 +1,47 @@
+
+.info{
+	display          : flex;
+
+
+	flex-direction   : column;
+	justify-content : space-between;
+	&>div{
+		width : 100%;
+	}
+	.counters{
+		display          : flex;
+		justify-content  : space-around;
+		flex-direction   : row;
+		flex             : 0 0 auto;
+	}
+	.arrow{
+		text-align : center;
+		height : 1.3em;
+		flex: 0 0 auto;
+	}
+	.phase1, .phase2{
+		border : 1px solid black;
+		flex   : 0 1 auto;
+		ul{
+			margin       : 0px;
+			padding      : 0px;
+			padding-left : 4px;
+			list-style   : none;
+			li{
+				.fa{
+					vertical-align : middle;
+					margin-right   : 8px;
+					font-size      : 0.5em;
+				}
+				p{
+					display: none;
+				}
+			}
+		}
+	}
+	.phase1{
+		ul{
+			column-count : 2;
+		}
+	}
+}

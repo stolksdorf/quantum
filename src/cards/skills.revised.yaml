@@ -1,0 +1,230 @@
+- name     : Agile
+  text     :
+  status   : unchanged
+  original : All of your ships have +1 movement.
+  type     : movement
+  art      :
+  notes    :
+
+
+- name     : Arrogant
+  text     :
+  status   : removed
+  original : If at the start of your turn you have more ships on the map than any other player, take 1 extra action.
+  type     : action
+  art      :
+  notes    :
+
+
+- name     : Brilliant
+  text     : At the start of your turn, you may gain 2 Research.
+  status   : revised
+  original : Add 2 to your research automatically at the start of your turn.
+  type     : research
+  art      :
+  notes    :
+
+
+- name     : Composed
+  text     : Once per turn, you may lose 1 Dominance and gain 3 Research
+  status   : revised
+  original : Once per turn as a free action, you may reduce your dominance by 1 and gain 3 research.
+  type     : research
+  art      :
+  notes    : Renamed from 'Cereberal'
+
+
+- name     : Conformist
+  text     :
+  status   : removed
+  original : If at the start of your turn 2 or more of your ships on the map have the same number, take 1 extra action.
+  type     : action
+  art      :
+  notes    :
+
+
+- name     : Cruel
+  text     :
+  status   : removed
+  original : When you attack or defend, you can choose to have your opponent re-roll once.
+  type     : combat
+  art      :
+  notes    : Replaced by 'Brutal'
+
+
+- name     : Cunning
+  text     : Once per turn, you may use one ship ability a second time.
+  status   : revised
+  original : Once per turn, you may use one of your ship’s abilities a second time as a free action.
+  type     : action
+  art      :
+  notes    :
+
+
+- name     : Dangerous
+  text     :
+  status   : unchanged
+  original : When you defend, before players roll combat dice, you can decide to destroy both ships (there is no dominance effect).
+  type     : combat
+  art      :
+  notes    :
+
+
+- name     : Eager
+  text     :
+  status   : removed
+  original : Deploy does not use up one of your actions.
+  type     : action
+  art      :
+  notes    : Another card that was just too powerful. Replaced by 'Industrious'
+
+
+- name     : Steadfast
+  text     :
+  status   : unchanged
+  original : Your ships can move or move/attack more than once per turn (each move counts as an action).
+  type     : movement
+  art      :
+  notes    : Renamed from 'Energetic'
+
+
+- name     : Ferocious
+  text     : -1 to your Combat rolls
+  status   : revised
+  original : Subtract 1 from every weapons or defenses combat roll.
+  type     : combat
+  art      :
+  notes    :
+
+
+- name     : Flexible
+  text     : Once per turn, you may increase or decrease one of your ship numbers by 1
+  status   : revised
+  original : Once per turn, you may change one of your ship dice up or down by 1 as a free action.
+  type     : ship
+  art      :
+  notes    :
+
+
+- name     : Ingenious
+  text     : You may use spaces diagonal to a planet when Conquering
+  status   : revised
+  original : Each of your ships diagonally adjacent to a planet may be counted toward the construct action.
+  type     : conquer
+  art      :
+  notes    :
+
+
+- name     : Intelligent
+  text     : When Conquering, you may add or subtract 1 from the planet number
+  status   : revised
+  original : You can construct on a planet when you have an orbital total 1 higher or 1 lower than the planet’s number.
+  type     : conquer
+  art      :
+  notes    :
+
+
+- name     : Nomadic
+  text     :
+  status   : removed
+  original : Once per turn, spend an action to relocate one of your ships in orbital position – put it in orbital position around a planet that is next to its current planet.
+  type     : movement
+  art      :
+  notes    : This card rarely saw play and always required a further explanation of _exactly_ how it worked. In addition, it's ability isn't that flashy, so it ended up being a dead card.
+
+
+- name     : Plundering
+  text     : The first time you destroy an enemy ship each turn, you may gain 3 Research
+  status   : unchanged
+  original : If you destroy one or more enemy ships on your turn, increase your research by 3.
+  type     : research
+  art      :
+  notes    :
+
+
+- name     : Precocious
+  text     : Your Research resets at 4, 5, or 6
+  status   : revised
+  original : Gain an advance card when research = 4 or higher (instead of 6).
+  type     : research
+  art      :
+  notes    :
+
+
+- name     : Rational
+  text     : Your Combat rolls are 3
+  status   : revised
+  original : Instead of rolling for weapons and defenses, all of your combat die rolls are considered to be 3.
+  type     : combat
+  art      :
+  notes    :
+
+
+- name     : Relentless
+  text     :
+  status   : removed
+  original : When you attack or defend, you can roll again once after your opponent rolls.
+  type     : combat
+  art      :
+  notes    : Replaced by 'Brutal'
+
+
+- name     : Resourceful
+  text     : Once per turn, you may destroy one of your ships and gain 1 Action.
+  status   : revised
+  original : Once per turn, take one of your ships from the map to your scrapyard, reroll it, and gain 1 action for that turn.
+  type     : action
+  art      :
+  notes    :
+
+
+- name     : Scrappy
+  text     :
+  status   : removed
+  original : On your turn only, you may reroll all of your die rolls a second time (ship and weapons die rolls).
+  type     : action
+  art      :
+  notes    : This card had too much overlap with other cards, and is often strictly better. Also theme on the card was rather weak.
+
+
+- name     : Stealthy
+  text     : You may deploy to any space that is not adjacent to a ship.
+  status   : revised
+  original : You have the option of deploying to any space that is not next to another ship.
+  type     : ship
+  art      :
+  notes    :
+
+- name     : Strategic
+  text     : During combat if your ship is adjacent to one or more friendly ships, -2 to your Combat roll.
+  status   : revised
+  original : Any of your ships next to another one of your ships gets a -2 to every weapons or defenses combat roll (you can consider an attacker to be in either square).
+  type     : combat
+  art      :
+  notes    :
+
+- name     : Stubborn
+  text     :
+  status   : unchanged
+  original : When you are attacked, ties go in your favor and you destroy your attacker if you win (and gain dominance).
+  type     : combat
+  art      :
+  notes    :
+
+- name     : Tactical
+  text     : Once per turn, you may move/attack 1 space with a ship even if it's already moved.
+  status   : revised
+  original : Once per turn as a free action, move a ship a total of 1 space (you can attack with the move).
+  type     : action
+  art      : day job
+  notes    :
+
+- name     : Hostile
+  text     : The first time you destroy an enemy ship each turn, gain 1 action.
+  status   : revised
+  original : When you destroy 1 or more enemy ships on your turn, you gain 1 extra action for that turn.
+  type     : action
+  art      :
+  notes    : Reanmed from 'Warlike'
+
+
