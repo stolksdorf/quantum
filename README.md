@@ -30,6 +30,9 @@ We've added some new rules and mechanics to keep the
 ## [New Cards](https://github.com/stolksdorf/quantum/blob/master/Cards.md)
 Card abilities are the heart of Quantum, and we have created many new cards and balanced the existing ones.
 
+- 16 new and 21 revised skills
+- 6 new and 3 revised tactics
+
 
 
 
