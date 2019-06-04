@@ -107,7 +107,7 @@
 
 
 - name     : Ingenious
-  text     : You may use spaces diagonal to a planet when Conquering
+  text     : When Conquering, you may use spaces diagonal to a planet
   status   : revised
   original : Each of your ships diagonally adjacent to a planet may be counted toward the construct action.
   type     : conquer
@@ -134,7 +134,7 @@
 
 
 - name     : Plundering
-  text     : The first time you destroy an enemy ship each turn, you may gain 3 Research
+  text     : The first time you destroy an enemy ship each turn, gain 3 Research
   status   : unchanged
   original : If you destroy one or more enemy ships on your turn, increase your research by 3.
   type     : research

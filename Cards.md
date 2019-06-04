@@ -45,9 +45,10 @@ _Printable card proxies with art is coming soon._
 > [original]: Whenever you would roll a ship die, choose the ship number instead. <br/>
 > Clever was a must-pick card, it was far too powerful, I've rarely seen a clever player _not_ win. This rework went through several iterations, each time reducing it's power-level. We finally split it's ability across two cards (the other being Calculating). We now feel it's still a very useful card without being overbearing.
 
-**Curious**: At the end of your turn, if you did not Attack or Conquer, gain 1 action. <br/>
+**Curious**: At the end of your turn, if you did not Attack or Conquer, gain an additional Move or Research action. <br/>
 > _status: changed_ <br/>
 > [original]: Each turn, get 1 extra move action for free (you cannot use it to attack). <br/>
+> We've tightened up the wording on the original card to fit better with the spirirt of what it was trying to give the player.
 
 **Devious**: You may move your ships through enemy ships. These spaces do not count towards your movement. <br/>
 > _status: playtesting_ <br/>
@@ -65,7 +66,7 @@ _Printable card proxies with art is coming soon._
 > _status: new_ <br/>
 > A symmetrical card to the new Tyrannical. Haven't played with it too much yet to see if it's too powerful, as it's a lot easier to manipulate your research than it is your dominance.
 
-**Prideful**: Conquer when your Dominance is 4. If a player destroys one of your ships, they may take this skill from you. <br/>
+**Prideful**: Your Dominance resets at 4, 5, or 6. When a player destroys one of your ships, they may take this card from you. <br/>
 > _status: playtesting_ <br/>
 > We had a card called Fervent that reduced the amount of dominance you need to 4, and then to 5, but it still proved too good. I still really enjoyed the ability, so I want to try it with the mechanics of a Skill passing from player to player. My worry is that it might dramatically cahnge the flow of the game if it pops up.
 
@@ -91,8 +92,8 @@ _Printable card proxies with art is coming soon._
 > _status: new_ <br/>
 > So far this hasn't broken the game. It doesn't seem like any skill was designed around only having 3 of them.
 
-**Tyrannical**: You may use your Dominance number in place of one of your ship numbers when Conquering. <br/>
-> _status: changed_ <br/>
+**Tyrannical**: You may use your Dominance number as an additional ship number when Conquering. <br/>
+> _status: playtesting_ <br/>
 > [original]: Once per turn as a free action, you may reduce your research by 1 and gain 1 dominance. <br/>
 > The original tyrannical was a weird card. It enabled a strategy our group dubbed 'Ghost Fleet', where you would try to get all your ships destroyed, not redeploy them, and use Tyrannical each turn to gain Dominance. While slow, the strategy is unstoppable and not that fun to play against. This new version still promotes the idea of having high dominance, but now it can be used as a tool opening up interesting decisions to the player. Do I want to tick it over this turn? Or wait so I can use that 5 to easily Conquer a different planet?
 
@@ -166,7 +167,7 @@ _Printable card proxies with art is coming soon._
 > _status: revised_ <br/>
 > [original]: Once per turn, you may change one of your ship dice up or down by 1 as a free action. <br/>
 
-**Ingenious**: You may use spaces diagonal to a planet when Conquering <br/>
+**Ingenious**: When Conquering, you may use spaces diagonal to a planet <br/>
 > _status: revised_ <br/>
 > [original]: Each of your ships diagonally adjacent to a planet may be counted toward the construct action. <br/>
 
@@ -174,7 +175,7 @@ _Printable card proxies with art is coming soon._
 > _status: revised_ <br/>
 > [original]: You can construct on a planet when you have an orbital total 1 higher or 1 lower than the planet’s number. <br/>
 
-**Plundering**: The first time you destroy an enemy ship each turn, you may gain 3 Research <br/>
+**Plundering**: The first time you destroy an enemy ship each turn, gain 3 Research <br/>
 > _status: unchanged_ <br/>
 > [original]: If you destroy one or more enemy ships on your turn, increase your research by 3. <br/>
 

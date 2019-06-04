@@ -33,12 +33,12 @@
 
 
 - name     : Curious
-  text     : At the end of your turn, if you did not Attack or Conquer, gain 1 action.
+  text     : At the end of your turn, if you did not Attack or Conquer, gain an additional Move or Research action.
   status   : changed
   original : Each turn, get 1 extra move action for free (you cannot use it to attack).
   type     : action
   art      : zoning in
-  notes    :
+  notes    : We've tightened up the wording on the original card to fit better with the spirirt of what it was trying to give the player.
 
 
 
@@ -76,7 +76,7 @@
 
 
 - name     : Prideful
-  text     : Conquer when your Dominance is 4. If a player destroys one of your ships, they may take this skill from you.
+  text     : Your Dominance resets at 4, 5, or 6. When a player destroys one of your ships, they may take this card from you.
   status   : playtesting
   type     : conquer
   art      :
@@ -129,8 +129,9 @@
 
 
 - name     : Tyrannical
-  text     : You may use your Dominance number in place of one of your ship numbers when Conquering.
-  status   : changed
+  #text     : You may use your Dominance number in place of one of your ship numbers when Conquering.
+  text     : You may use your Dominance number as an additional ship number when Conquering.
+  status   : playtesting
   original : Once per turn as a free action, you may reduce your research by 1 and gain 1 dominance.
   type     : conquer
   art      : menance

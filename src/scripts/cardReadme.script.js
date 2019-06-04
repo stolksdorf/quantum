@@ -5,11 +5,11 @@ const sort = (arr, fn)=>arr.sort((a,b)=>{
 	return x < y ? -1 : x > y ? 1 : 0;
 });
 
-const fse = require('fs-extra');
+const fs = require('fs');
 
 const Cards = require('../cards');
 
-const Template = fse.readFileSync('./scripts/cardReadme.template.md', 'utf8');
+const Template = fs.readFileSync('./scripts/cardReadme.template.md', 'utf8');
 
 let Readme = Template;
 
@@ -71,5 +71,5 @@ Readme = Readme.replace('{{tactics.removed}}', renderGroup(Tactics.removed));
 
 
 
-fse.writeFileSync('../Cards.md', Readme);
+fs.writeFileSync('../Cards.md', Readme);
 console.log('Updated `Cards.md`!');
