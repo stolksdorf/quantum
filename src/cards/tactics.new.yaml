@@ -7,6 +7,15 @@
   notes    :
 
 
+- name     : Show of Force
+  text     : Destroy any one ship. Gain 1 Dominance.
+  status   : playtesting
+  original :
+  art      :
+  notes    : Replacement for Aggression. Aggression lacked player interaction and could be quite narrow for some players not focusing on combat. Also gaining 2 Dominance is a pretty big deal, and could easily win you the game. This new card opens up some options of all players, espically dealing with fortified players. Lastly theme feels a much better.
+
+
+
 - name     : Change of Heart
   text     : Search the Skill deck and take a card of your choosing, then shuffle the deck.
   status   : new

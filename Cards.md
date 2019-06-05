@@ -178,6 +178,7 @@ _Printable card proxies with art is coming soon._
 **Plundering**: The first time you destroy an enemy ship each turn, gain 3 Research <br/>
 > _status: unchanged_ <br/>
 > [original]: If you destroy one or more enemy ships on your turn, increase your research by 3. <br/>
+> The phrase 'If you destroy one or more enemy ships on your turn...' made it unclear exactly when the ability would trigger. There was also some debate about if the ability would trigger multiple times. We replaced all of these instances with this new wording.
 
 **Precocious**: Your Research resets at 4, 5, or 6 <br/>
 > _status: revised_ <br/>
@@ -226,6 +227,10 @@ _Printable card proxies with art is coming soon._
 
 **Black Market Cache**: Gain 2 Missiles <br/>
 > _status: playtesting_ <br/>
+
+**Show of Force**: Destroy any one ship. Gain 1 Dominance. <br/>
+> _status: playtesting_ <br/>
+> Replacement for Aggression. Aggression lacked player interaction and could be quite narrow for some players not focusing on combat. Also gaining 2 Dominance is a pretty big deal, and could easily win you the game. This new card opens up some options of all players, espically dealing with fortified players. Lastly theme feels a much better.
 
 **Change of Heart**: Search the Skill deck and take a card of your choosing, then shuffle the deck. <br/>
 > _status: new_ <br/>

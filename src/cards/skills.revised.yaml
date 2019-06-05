@@ -139,7 +139,7 @@
   original : If you destroy one or more enemy ships on your turn, increase your research by 3.
   type     : research
   art      :
-  notes    :
+  notes    : The phrase 'If you destroy one or more enemy ships on your turn...' made it unclear exactly when the ability would trigger. There was also some debate about if the ability would trigger multiple times. We replaced all of these instances with this new wording.
 
 
 - name     : Precocious
