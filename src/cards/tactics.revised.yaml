@@ -1,10 +1,10 @@
 
 - name     : Aggression
   text     : Gain 2 Dominance
-  status   : revised
+  status   : removed
   original : Immediately add 2 to dominance
   art      :
-  notes    :
+  notes    : Replaced by 'Show of Force'
 
 
 - name     : Expansion
