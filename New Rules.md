@@ -24,10 +24,12 @@
 Explanation for each new mechanic is listed under it.
 
 
-#### Fleet Expansion deck
-In addition to the Skill deck and Tactic deck, there is now an Expansion deck. The deck contains all of the same card (the original Expansion gambit) and can be selected when a player normally selects a card. The number of cards in this deck is equal to the number of players plus one.
+#### Fleet Expansion Pool
+In addition to the Skill deck and Tactic deck, there is now an Expansion pool. During setup each player places their reserve die into this pool near the Tactic and Skill cards. When a player selects a card, they may instead choose a reserve die. 
 
-> The fleet expansion ability as a Tactic Card is an odd choice. This ability should scale with the number of players, but it has a fixed number in the deck. In low player counts you can get flooded with Expansion cards you can't use, and vice versa in high player counts. Expansion is just one path to victory, but it is over-represented in the Tactic deck. We feel moving it to it's own deck fixes these issues.
+_Potentially reduce the reserve dice by 1, and have a single gold die always in the reserve, there fore there should be only one die per player, plus the gold die._
+
+> The fleet expansion ability as a Tactic Card is an odd choice. This ability should scale with the number of players, but it has a fixed number in the deck. In low player counts you can get flooded with Expansion cards you can't use, and vice versa in high player counts. Expansion is just one path to victory, but it is over-represented in the Tactic deck. We feel moving it to it's own pool fixes these issues.
 
 
 #### Starting Skill
@@ -65,7 +67,7 @@ You may spend a Missile to change any player's combat roll to a 1. You may spend
     1. Draw 2 Skill cards, select one and return the other to the bottom of the skill deck.
     1. Place one of your Conquer Markers onto your home system
     1. Place a die onto the Research tracker and a die onto the Dominance tracker on your board. Set both to 1.
-    1. Place two of your dice on the Reserve section of your board.
+    1. Place two of your dice in the Reserve by the Skill and Tactic cards.
     1. Roll three of your dice and place them into the orbital spaces around your home planet in any configuration. You may re-roll any of these dice once.
 
 1. Shuffle the Skill deck and the Tactic deck. Place them near the board and reveal the top three cards for each.
